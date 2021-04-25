@@ -1,0 +1,2 @@
+# myhealthdiary-doc
+Documentation repository
